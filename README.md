@@ -9,3 +9,4 @@ In order to represent a chessboard in a program, write a chessboard function tha
     ...,
     ['h - 1', 'h - 2', 'h - 3', 'h - 4', 'h - 5', 'h - 6', 'h - 7', 'h - 8'],
 ]
+
